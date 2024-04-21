@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+
+}
+.romana{
+    margin: 0 700px;
+}
+.engleza{
+    margin: 0 700px;
+}
+.header {
+    background-color: #649d4b;
+    color: #131212;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navigation {
+    background-color: #add19b;
+    padding: 10px;
+    text-align: center;
+}
+
+.navigation a {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #649d4b ;
+    color: #0f0f0e;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.navigation a:hover {
+    background-color: #e4b15e;
+}
+
+.chapter-content {
+    padding: 20px;
+    text-align: center;
+}
+
+.chapter-buttons {
+    margin-top: 20px;
+}
+
+.chapter-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e4b15e;
+    color:#050505;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.chapter-btn:hover {
+    background-color: #e4b15e;
+}
+
+.footer-links {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: #050505;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+body {
+    background-image: url("images.jpeg");
+    background-size: 1550px 1200px;
+    height: 1000px;
+  }
+  img {
+    margin-left: 20px; /* Schimbă această valoare pentru a muta imaginea în stânga /
+    / sau /
+    margin-right: 400px; / Schimbă această valoare pentru a muta imaginea în dreapta */
+height: 550px;
+}
+img {
+    float: left;
+    margin-right: 20px;
+  }
+
+  .text-container {
+    margin-left: 200px;
+    height: 500px;
+  }
